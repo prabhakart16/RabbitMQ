@@ -1,0 +1,2 @@
+# RabbitMQ
+POC on rabbitMQ
